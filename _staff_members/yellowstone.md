@@ -1,7 +1,7 @@
 ---
-name: Yellowstone
-position: janitorial
+name: Red dog
+position: Chief 
 image_path: /staff_images/BisonBabyMist.jpg
 ---
 
-a magical place to visit and recuperate..
+Red dog is a nickname for a bison calf. 
